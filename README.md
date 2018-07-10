@@ -22,7 +22,7 @@ The objective of this assignment is to convert the text in english to Braille us
 git remote add starter https://github.com/sro-boeing-wave-2/english-to-braille-js-assignment-problem
 
 # Install static server, can just be anything.
-npm install -g node-static
+npm instastaticll -g node-
 
 # Install all the dependencies of the application
 npm install
